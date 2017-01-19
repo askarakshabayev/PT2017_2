@@ -13,11 +13,9 @@ namespace HelloWorld
         /// <param name="args">arguments from console</param>
         static void Main(string[] args)
         {
-            // comment
-            /*
-             * comment 1
-             * comment 2
-             */
+            // Hello world program
+            Console.WriteLine("Hello world");
+            Console.ReadKey();
         }
     }
 }
